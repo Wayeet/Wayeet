@@ -1,7 +1,5 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&count_private=true)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&show_icons=true&count_private=true)
 
