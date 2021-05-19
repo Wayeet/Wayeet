@@ -1,4 +1,4 @@
-# Not much to find here, since I do most of the stuff in private repos
+# Not much to find here, since I do most of the stuff in private repositories :)
 
 
 
