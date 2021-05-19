@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wayeet&repo=not-much-here)](https://github.com/anuraghazra/github-readme-stats)
+# Not much to find here, since I do most of the stuff in private repos
 
 
 
