@@ -5,6 +5,7 @@
 ![I am a young developer from Germany](https://raw.githubusercontent.com/Wayeet/Wayeet/main/banner.gif)
 
 I am interested in anything related to hardware, software or network and system integration
+Message me on Twitter or on Discord(Wayeet#9438)
 
 Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, Server/PC Hardware, Networking
 
