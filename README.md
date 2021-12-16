@@ -8,7 +8,7 @@ I am interested in anything related to hardware, software or network and system 
 
 Message me on Twitter or on Discord(Wayeet#9438)
 
-Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, Server/PC Hardware, Networking, WhiteHat Cybersecurity
+Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, System administration, Server/PC Hardware, Networking, WhiteHat Cybersecurity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&show_icons=true&count_private=true)
 
