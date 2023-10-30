@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, My name is Björn
+# Hi there 👋, SIGSEGV here
 ## I am a young developer from Germany
 ![I am a young developer from Germany](https://raw.githubusercontent.com/Wayeet/Wayeet/main/banner.gif)
 
