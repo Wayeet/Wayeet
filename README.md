@@ -5,6 +5,6 @@
 ![nono](https://raw.githubusercontent.com/Wayeet/Wayeet/main/banner.gif)
 
 
-My most used languages inlcude: C, C++, Java/Kotlin, Rust, Python, Typescript/Javascript, HTML/CSS, Lua, Go, Swift, Bash
+My most used languages inlcude: C, C++, Java/Kotlin, Rust, Python, Typescript/Javascript, HTML/CSS, PHP, Lua, Go, Swift, Bash
 
 Message me on Discord @Wayeet
